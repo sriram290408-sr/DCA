@@ -6,7 +6,7 @@ body {
 }
 
 .header {
-  background: url(../Assets/banner.jpg) no-repeat center center/cover;
+  background: url(banner.jpg) no-repeat center center/cover;
   height: 420px;
   display: flex;
   justify-content: end;
@@ -122,4 +122,5 @@ body {
   padding: 20px;
   margin-top: 350px;
   font-size: x-large;
+
 }
