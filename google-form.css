@@ -6,7 +6,7 @@ body {
 }
 
 .header {
-  background: url(../Assets/banner.jpg) no-repeat center center/cover;
+  background: url(banner.jpg) no-repeat center center/cover;
   height: 420px;
   display: flex;
   justify-content: end;
@@ -137,4 +137,5 @@ button:hover {
   padding: 20px;
   margin-top: 250px;
   font-size: x-large;
+
 }
